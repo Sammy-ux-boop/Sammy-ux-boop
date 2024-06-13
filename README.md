@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sammy-ux-boop
+- 👋 Hi, I’m @Sammy Caleb
 - 👀 I’m interested in ...GIS automation 
 - 🌱 I’m currently learning ...python and geospatial science
 - 💞️ I’m looking to collaborate on ...
