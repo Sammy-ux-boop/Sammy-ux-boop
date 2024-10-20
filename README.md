@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sammy Caleb
-- 👀 I’m interested in ...GIS automation 
-- 🌱 I’m currently learning ...python and geospatial science
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in GIS automation 
+- 🌱 I’m currently learning python and geospatial science
+- 💞️ I’m looking to collaborate on GIS Development Projects
 - 📫 How to reach me ... calebsammy224@gmail.com and +254748650039
 
 <!---
