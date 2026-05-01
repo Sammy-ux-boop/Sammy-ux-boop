@@ -1,6 +1,5 @@
-👋 Hi, I’m Sammy Caleb
+👋 Hi, I’m Sammy Caleb Kikongo
 🌍 About Me
-
 I’m a Geospatial Data Engineer / Scientist passionate about building scalable geospatial solutions and transforming spatial data into actionable insights.
 I focus on data pipelines, spatial analytics, and automation to solve real-world problems.
 
